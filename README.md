@@ -1,2 +1,2 @@
-# boj-python
-백준 문제풀이 with Python
+# algorithm-boj
+백준 문제풀이 (Python, JAVA, C++)
