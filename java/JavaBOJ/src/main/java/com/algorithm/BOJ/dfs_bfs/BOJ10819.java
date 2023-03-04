@@ -1,10 +1,8 @@
-package com.algorithm.BOJ;
+package com.algorithm.BOJ.dfs_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.StringTokenizer;
 
 /**
  * 차이를 최대로
